@@ -2,7 +2,7 @@
 <h3>THIS TEMPLATE IS ONLY TO BE USED ON THE MARCH HACKATHON PROJECT</h3>
 <h4>Please do not use it for the course project work</h4>
 <br>
-<h1 align="center"><strong> :santa: :christmas_tree: :smiley: World Happiness Day! :smiley: </strong>
+<h1 align="center"><strong> :smiley: World Happiness Day! :smiley: </strong>
 
 </h1>
 
